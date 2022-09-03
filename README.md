@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanu70998
+- 👋 Hi, I’m tanu sharma
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning java, data-structure and algorithm
 - 💞️ I’m looking to collaborate on application development
